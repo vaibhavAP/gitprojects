@@ -4,7 +4,7 @@ A Python 3 script to migrate milestones, labels, and issues between repositories
 There was once no easy way to migrate your team's collaborative work (Milestones, Labels, Issues) to another repository. This was especially thorny for teams moving a project into GitHub Enterprise, or open sourcing an existing project by moving it out of GitHub Enterprise. This is a tool to help that process.
 
 ## Dependencies
-GitMover is just a Python script. You'll need `PyGithub`, and `argparse` installed.
+Git Project Management uses Python scripts. You'll need `PyGithub`, and `argparse` installed.
 Install them with pip: `pip install PyGithub argparse`.
 
 Running the project takes multiple arguments and was inspired by a Python 2
