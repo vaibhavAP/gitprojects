@@ -22,7 +22,7 @@ $ git-mover.py [-h] [--destinationToken [DESTINATIONTOKEN]]
 ## Example Script
 `git-mover.py user_name ***TOKEN HERE*** <team_name>/<repo_name> <team_name>/<repo_name> --milestones --label --issues --update`
 
-For authentication, GitMover uses a personal access token, which can be generated in your GitHub Profile settings.
+For authentication, Git Project Management uses a personal access token, which can be generated in your GitHub Profile settings.
 
 ### Positional Arguments
   `user_name`: Your GitHub (public or enterprise) username: name@email.com
